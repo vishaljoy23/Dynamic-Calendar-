@@ -1,0 +1,27 @@
+{
+    "MyLIFE": {
+        "events": [
+            {
+                "date": "2025-01-23T03:00:00",
+                "description": "CARV",
+                "type": "Goal",
+                "hours_per_week": 4
+            },
+            {
+                "date": "2025-01-22T16:00:00",
+                "description": "CARV_1",
+                "type": "Sub-Goal"
+            },
+            {
+                "date": "2025-01-22T17:00:00",
+                "description": "CARV_2",
+                "type": "Sub-Goal"
+            },
+            {
+                "date": "2025-01-22T18:00:00",
+                "description": "CARV_3",
+                "type": "Sub-Goal"
+            }
+        ]
+    }
+}
